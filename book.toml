@@ -1,0 +1,6 @@
+[book]
+authors = ["frantisek.hruby"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Jazyk C - František Hrubý™"
